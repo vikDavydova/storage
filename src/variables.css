@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap');
+
+:root {
+  --primary: #FC5B08;
+  --secondary: #FFF5E9;
+  --third: #ffffff;
+  --accent: black;
+  --background: #151515;
+  --text1: #ffffff;
+  --text2: #ffffff;
+}
+
+.dark-theme{
+  --primary: black;
+  --secondary: #151515;
+  --third: #FC5B08;
+  --accent: #FC5B08;
+  --background: #FFF5E9;
+  --text1: #ffffff;
+  --text2: black;
+}
+
+
+
+
+/*linear-gradient(to bottom, var(--primary), var(--secondary), var(--third))
+btn var(--accent)
+
+светлый: оранжевый(#FC5B08) - светло-оранж(#FFF5E9) - белый(#ffffff),                темный: черный - серый(#151515) - оранж
+кнопка черная  (black)                                                               кнопка рыжая(#FC5B08)
+пункты - оранж с белым шрифтом                   пункты - оранж(#FC5B08) с белым шрифтом(white)
+аккордион - черный, белый шрифт, рыжие кнопки    аккордион - светло-оранж, черный шрифт, рыжие кнопки((#FC5B08))*/
